@@ -1,2 +1,2 @@
-# practicegithub
+# Godsplane
 Fristproject
